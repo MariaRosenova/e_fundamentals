@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\bin\Debug\netcoreapp3.1\01.Burger-Bus.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\bin\Debug\netcoreapp3.1\01.Burger-Bus.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\bin\Debug\netcoreapp3.1\01.Burger-Bus.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\bin\Debug\netcoreapp3.1\01.Burger-Bus.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\bin\Debug\netcoreapp3.1\01.Burger-Bus.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\bin\Debug\netcoreapp3.1\01.Burger-Bus.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\obj\Debug\netcoreapp3.1\01.Burger-Bus.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\obj\Debug\netcoreapp3.1\01.Burger-Bus.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\obj\Debug\netcoreapp3.1\01.Burger-Bus.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\obj\Debug\netcoreapp3.1\01.Burger-Bus.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\obj\Debug\netcoreapp3.1\01.Burger-Bus.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\obj\Debug\netcoreapp3.1\01.Burger-Bus.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\01.Burger-Bus\01.Burger-Bus\obj\Debug\netcoreapp3.1\01.Burger-Bus.genruntimeconfig.cache

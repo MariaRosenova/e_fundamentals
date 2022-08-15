@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\netcoreapp3.1\Intro and Basic Syntax.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\netcoreapp3.1\Intro and Basic Syntax.genruntimeconfig.cache

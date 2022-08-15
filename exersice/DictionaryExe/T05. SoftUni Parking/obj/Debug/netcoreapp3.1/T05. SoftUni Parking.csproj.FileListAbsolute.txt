@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\bin\Debug\netcoreapp3.1\T05. SoftUni Parking.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\bin\Debug\netcoreapp3.1\T05. SoftUni Parking.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\bin\Debug\netcoreapp3.1\T05. SoftUni Parking.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\bin\Debug\netcoreapp3.1\T05. SoftUni Parking.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\bin\Debug\netcoreapp3.1\T05. SoftUni Parking.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\bin\Debug\netcoreapp3.1\T05. SoftUni Parking.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\obj\Debug\netcoreapp3.1\T05. SoftUni Parking.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\obj\Debug\netcoreapp3.1\T05. SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\obj\Debug\netcoreapp3.1\T05. SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\obj\Debug\netcoreapp3.1\T05. SoftUni Parking.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\obj\Debug\netcoreapp3.1\T05. SoftUni Parking.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\obj\Debug\netcoreapp3.1\T05. SoftUni Parking.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T05. SoftUni Parking\obj\Debug\netcoreapp3.1\T05. SoftUni Parking.genruntimeconfig.cache

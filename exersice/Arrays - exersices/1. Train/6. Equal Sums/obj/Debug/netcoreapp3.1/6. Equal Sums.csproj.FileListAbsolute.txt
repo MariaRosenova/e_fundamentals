@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\bin\Debug\netcoreapp3.1\6. Equal Sums.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\6. Equal Sums\obj\Debug\netcoreapp3.1\6. Equal Sums.csprojAssemblyReference.cache

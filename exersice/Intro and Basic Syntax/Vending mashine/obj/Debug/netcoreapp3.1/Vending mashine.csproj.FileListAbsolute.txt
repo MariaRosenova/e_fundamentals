@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\bin\Debug\netcoreapp3.1\Vending mashine.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\bin\Debug\netcoreapp3.1\Vending mashine.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\bin\Debug\netcoreapp3.1\Vending mashine.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\bin\Debug\netcoreapp3.1\Vending mashine.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\bin\Debug\netcoreapp3.1\Vending mashine.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\bin\Debug\netcoreapp3.1\Vending mashine.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\obj\Debug\netcoreapp3.1\Vending mashine.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\obj\Debug\netcoreapp3.1\Vending mashine.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\obj\Debug\netcoreapp3.1\Vending mashine.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\obj\Debug\netcoreapp3.1\Vending mashine.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\obj\Debug\netcoreapp3.1\Vending mashine.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\obj\Debug\netcoreapp3.1\Vending mashine.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Intro and Basic Syntax\Vending mashine\obj\Debug\netcoreapp3.1\Vending mashine.genruntimeconfig.cache

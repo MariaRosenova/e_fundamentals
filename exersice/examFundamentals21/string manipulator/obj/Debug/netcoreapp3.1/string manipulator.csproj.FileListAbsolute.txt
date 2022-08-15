@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\bin\Debug\netcoreapp3.1\string manipulator.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\bin\Debug\netcoreapp3.1\string manipulator.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\bin\Debug\netcoreapp3.1\string manipulator.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\bin\Debug\netcoreapp3.1\string manipulator.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\bin\Debug\netcoreapp3.1\string manipulator.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\bin\Debug\netcoreapp3.1\string manipulator.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\obj\Debug\netcoreapp3.1\string manipulator.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\obj\Debug\netcoreapp3.1\string manipulator.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\obj\Debug\netcoreapp3.1\string manipulator.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\obj\Debug\netcoreapp3.1\string manipulator.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\obj\Debug\netcoreapp3.1\string manipulator.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\obj\Debug\netcoreapp3.1\string manipulator.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\string manipulator\obj\Debug\netcoreapp3.1\string manipulator.genruntimeconfig.cache

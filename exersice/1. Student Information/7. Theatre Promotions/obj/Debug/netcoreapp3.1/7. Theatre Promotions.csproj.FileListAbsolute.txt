@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\bin\Debug\netcoreapp3.1\7. Theatre Promotions.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\1. Student Information\7. Theatre Promotions\obj\Debug\netcoreapp3.1\7. Theatre Promotions.genruntimeconfig.cache

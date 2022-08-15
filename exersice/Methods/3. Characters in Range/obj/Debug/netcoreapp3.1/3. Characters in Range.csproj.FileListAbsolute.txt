@@ -1,0 +1,26 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\bin\Debug\netcoreapp3.1\3. Characters in Range.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Methods\3. Characters in Range\obj\Debug\netcoreapp3.1\3. Characters in Range.genruntimeconfig.cache

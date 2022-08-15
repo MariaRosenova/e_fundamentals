@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\examFundamentals21\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.genruntimeconfig.cache

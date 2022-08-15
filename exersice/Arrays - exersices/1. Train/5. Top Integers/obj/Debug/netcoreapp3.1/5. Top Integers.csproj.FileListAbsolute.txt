@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\bin\Debug\netcoreapp3.1\5. Top Integers.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\bin\Debug\netcoreapp3.1\5. Top Integers.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\bin\Debug\netcoreapp3.1\5. Top Integers.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\bin\Debug\netcoreapp3.1\5. Top Integers.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\bin\Debug\netcoreapp3.1\5. Top Integers.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\bin\Debug\netcoreapp3.1\5. Top Integers.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\obj\Debug\netcoreapp3.1\5. Top Integers.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\obj\Debug\netcoreapp3.1\5. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\obj\Debug\netcoreapp3.1\5. Top Integers.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\obj\Debug\netcoreapp3.1\5. Top Integers.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\obj\Debug\netcoreapp3.1\5. Top Integers.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\obj\Debug\netcoreapp3.1\5. Top Integers.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\5. Top Integers\obj\Debug\netcoreapp3.1\5. Top Integers.genruntimeconfig.cache

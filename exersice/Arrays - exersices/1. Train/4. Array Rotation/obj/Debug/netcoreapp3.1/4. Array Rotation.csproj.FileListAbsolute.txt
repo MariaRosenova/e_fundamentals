@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\bin\Debug\netcoreapp3.1\4. Array Rotation.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\4. Array Rotation\obj\Debug\netcoreapp3.1\4. Array Rotation.csprojAssemblyReference.cache

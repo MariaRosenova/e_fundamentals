@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Methods\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.genruntimeconfig.cache

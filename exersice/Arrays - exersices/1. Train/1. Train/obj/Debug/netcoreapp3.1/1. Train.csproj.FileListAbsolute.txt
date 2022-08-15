@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\bin\Debug\netcoreapp3.1\1. Train.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\second level - fundamentals\exersice\Arrays - exersices\1. Train\1. Train\obj\Debug\netcoreapp3.1\1. Train.genruntimeconfig.cache

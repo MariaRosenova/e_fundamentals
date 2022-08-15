@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.genruntimeconfig.cache

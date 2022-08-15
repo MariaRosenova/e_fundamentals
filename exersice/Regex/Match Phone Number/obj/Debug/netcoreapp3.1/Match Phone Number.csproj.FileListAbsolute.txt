@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\bin\Debug\netcoreapp3.1\Match Phone Number.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\Regex\Match Phone Number\obj\Debug\netcoreapp3.1\Match Phone Number.genruntimeconfig.cache

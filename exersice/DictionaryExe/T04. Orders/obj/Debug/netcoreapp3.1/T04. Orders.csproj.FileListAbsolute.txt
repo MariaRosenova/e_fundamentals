@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\bin\Debug\netcoreapp3.1\T04. Orders.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\programming\softuni\second level - fundamentals\exersice\DictionaryExe\T04. Orders\obj\Debug\netcoreapp3.1\T04. Orders.genruntimeconfig.cache
